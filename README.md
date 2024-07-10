@@ -17,7 +17,7 @@
 
 <p align="left">
   📬 How to reach me: Drop me a message here or connect with me on:
-  <a href="https://www.linkedin.com/in/Tejaswini-Wakure">
+  <a href="https://www.linkedin.com/in/tejaswini-wakure">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 </p>
