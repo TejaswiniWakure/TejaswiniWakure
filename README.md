@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=shadows&color=auto&height=120&section=header&textColor=ffffff&fontSize=50&fontAlignY=0.5"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20There!&animation=fadeIn&type=transparent&color=7d00ff&height=120&section=header&textColor=ffffff&fontSize=50&fontAlignY=0.5"/>
 </p>
 
 <h2 align="center">Hi, I’m Tejaswini! (🌈She/Her)</h2>
