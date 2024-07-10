@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Greetings!&animation=fadeIn&type=typewriter&color=auto&height=120&section=header&textColor=ffffff&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Page!&animation=fadeIn&type=soft&color=multi&height=120&section=header&textColor=ffffff&fontSize=50&fontAlignY=0.5"/>
 </p>
+
 <h2 align="center">Hi, I’m Tejaswini! (🌈She/Her)</h2>
 <p align="left">
   🎉 Fun-Fact: I once spent hours tracking down a bug that turned out to be a typo in a variable name!
